@@ -1,37 +1,32 @@
-## Welcome to GitHub Pages
+## 动漫全收集整理计划
+这是一个个人向的番剧整理计划，鉴于目前BT保种险恶，大部分历史悠久的番剧已经找不到了或者磁力没有速度了，本人作为一名新晋仓鼠，为满足收藏心，故开创此计划。----BY：pilipili666888
 
-You can use the [editor on GitHub](https://github.com/Bangumi-collection/Bangumi-collection/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
+此计划开始于2021年9月，此页面作为一个整理进度记录页而存在。
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+### 计划
 
-### Markdown
+1.整理从2000年-至未来的所有的番剧
+2.在收集的基础上，使用TMM刮削番剧信息，制作媒体库
+3.上传至OneDrive企业盘，大家一起追番（划掉）
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
-```markdown
-Syntax highlighted code block
 
-# Header 1
-## Header 2
-### Header 3
+### 番剧质量及筛选标准
+优先度依次降低：
+1.有字幕>无字幕
+2.1080>720
+3.简体>繁体
+4.BD（单集25分钟小于1GB大小）>TV
 
-- Bulleted
-- List
+###进度 
+2021.09
+2017年番剧整理完成
 
-1. Numbered
-2. List
 
-**Bold** and _Italic_ and `Code` text
 
-[Link](url) and ![Image](src)
-```
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+### 感谢
 
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/Bangumi-collection/Bangumi-collection/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+动漫花园
+各大字幕组
+H萌
